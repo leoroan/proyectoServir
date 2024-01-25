@@ -1,0 +1,11 @@
+.titulo {
+  color: blue;
+}
+
+.transparencia {
+  opacity: 0.5; /* Puedes ajustar este valor según lo transparente que desees la imagen (0 completamente transparente, 1 completamente opaca) */
+}
+
+* {
+  background-color: aliceblue;
+}
